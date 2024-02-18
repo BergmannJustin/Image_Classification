@@ -34,14 +34,13 @@ Der CIFAR-10-Datensatz kann direkt aus meinem Code oder von der offiziellen Webs
 
 ## Weitere Informationen
   Weitere Informationen zum CIFAR-10-Datensatz und zur Bildklassifizierung mit CNNs finden Sie in der offiziellen Dokumentation:
-
-  CIFAR-10 Dataset
-  TensorFlow Documentation
-  Keras Documentation
+- CIFAR-10 Dataset
+- TensorFlow Documentation
+- Keras Documentation
 
 
 ## Metadaten
-- Justin Bergmann - Github: @BergmannJustin
+Justin Bergmann - Github: @BergmannJustin
 
 
 
