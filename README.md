@@ -6,7 +6,7 @@
 - [Anwendungsbeispiele](#Anwendungsbeispiele)
 - [Metadaten](#Metadaten)
 
-- ## Vorraussetzungen
+## Vorraussetzungen
 - Deutsch / Englisch Kenntnisse 
 - Ein internetfähiger Linux/Mac/Windows basierter Computer
 - Kenntnisse über Neuronale Netze
