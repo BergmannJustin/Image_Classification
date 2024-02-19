@@ -1,4 +1,4 @@
-# Image_Classification_Pruefung
+# Image_Classification
 
 
 
