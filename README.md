@@ -36,7 +36,7 @@ git clone https://github.com/BergmannJustin/Image_Classification_Pr-fung.git
 
 [zurück an den Anfang](#Write-o-mat)
 
-## Data loading
+## Dataloading
 The CIFAR-100 dataset can be downloaded directly from my code or from the official website: CIFAR-100 Dataset.
 
 [zurück an den Anfang](#Write-o-mat)
