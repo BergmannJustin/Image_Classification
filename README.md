@@ -8,9 +8,9 @@ The Dataset comprises 100 classes, each containing 600 images. Specifically, the
 
 ## Table of contents
 - [Requirement](#Requirement)
-- [Data loading](#Dataloading)
-- [Purpose of use](#Purposeofuse)
-- [Use this Code Guide](#UsethisCodeGuide)
+- [Data loading](#Data-loading)
+- [Purpose of use](#Purpose-of-use)
+- [Use this Code Guide](#Use-this-Code-Guide)
 - [Metadaten](#Metadaten)
 
 ## Requirement
@@ -36,18 +36,18 @@ git clone https://github.com/BergmannJustin/Image_Classification_Pr-fung.git
 
 [zurück an den Anfang](#Write-o-mat)
 
-## Dataloading
+## Data-loading
 The CIFAR-100 dataset can be downloaded directly from my code or from the official website: CIFAR-100 Dataset.
 
 [zurück an den Anfang](#Write-o-mat)
 
-## Purpose of use
+## Purpose-of-use
 
 
 
 [zurück an den Anfang](#Write-o-mat)
 
-## Use this Code Guide
+## Use-this-Code-Guide
 
 
 [zurück an den Anfang](#Write-o-mat)
