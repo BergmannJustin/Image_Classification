@@ -6,6 +6,7 @@
 
 I coded an image classifier that aims to detect classes in images. The Dataset comprises 100 classes, each containing 600 images. Specifically, there are 500 training images and 100 testing images per class.
 So in total there are 60000 Images. 
+I used Google Colab because it allows you to use a GPU, which was very important for my project.
 
 
 
