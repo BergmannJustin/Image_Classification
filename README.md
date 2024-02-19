@@ -2,20 +2,22 @@
 
 
 
-## Einleitung 
+## Introduction
 
-In diesem Projekt habe ich ein Convolutional Neural Network (CNN) trainiert, um den CIFAR-10-Datensatz zu klassifizieren. Der CIFAR-10-Datensatz besteht aus 60.000 farbigen Bildern in 10 verschiedenen Kategorien. Jede Kategorie enthält 6.000 Bilder. Das Ziel dieses Projekts war es, ein Modell zu entwickeln, das in der Lage ist, diese Bilder korrekt zu klassifizieren.
+The Dataset comprises 100 classes, each containing 600 images. Specifically, there are 500 training images and 100 testing images per class. Moreover, the 100 classes in the CIFAR-100 dataset are further organized into 20 superclasses. Each image is associated with two labels: a "fine" label indicating the specific class it belongs to, and a "coarse" label indicating the superclass it belongs to.
 
 
-## Anforderung
 
-Um dieses Projekt durchzuführen, benötigen Sie die folgenden Python-Bibliotheken:
+## Requirement
+
+To complete this project you will need the following libraries:
 
 TensorFlow
 Keras
 NumPy
 Matplotlib
-Sie können diese Bibliotheken über pip installieren:
+
+You can install these libraries via pip:
 
 ```Shell
 git clone 
