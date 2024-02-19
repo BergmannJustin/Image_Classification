@@ -59,6 +59,19 @@ A common application of image classification is object detection and identificat
 
 ## Use-this-Code-Guide
 
+- 1 = Import Librabies 
+- 2 = Loading CIFAR-100 
+- 3 = Adding augmentation 
+- 4 = Building Model Architekture 
+- 5 = Compiling the model 
+- 6 = Displaing model summary 
+- 7 = Training the model 
+- 8 = Visualizing learning curve of model 
+- 9 = Printing Test Accuary 
+- 10 = Saving the model 
+- 11 = Making Predictions 
+- 12 = Predicted and actual classes
+
 
 [Back to top](#Image_Classification_Pruefung)
 
