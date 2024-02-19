@@ -1,4 +1,4 @@
-# Image Classification
+# Image-Classification
 
 
 
@@ -36,12 +36,12 @@ And clone the Repository
 git clone https://github.com/BergmannJustin/Image_Classification_Pr-fung.git
 ```
 
-[Back to top](#Image_Classification_Pruefung)
+[Back to top](#Image-Classification)
 
 ## Data-loading
 The CIFAR-100 dataset can be downloaded directly from my code or from the official website: CIFAR-100 Dataset.
 
-[Back to top](#Image_Classification_Pruefung)
+[Back to top](#Image-Classification)
 
 ## Purpose-of-use
 
@@ -51,7 +51,7 @@ A common application of image classification is object detection and identificat
 
 
 
-[Back to top](#Image_Classification_Pruefung)
+[Back to top](#Image-Classification)
 
 ## Use-this-Code-Guide
 
@@ -71,14 +71,14 @@ You can run the code exactly as is when cloning
 - 12 = Predicted and actual classes
 
 
-[Back to top](#Image_Classification_Pruefung)
+[Back to top](#Image-Classification)
 
 
 ## Metadaten
 Justin Bergmann - Github: @BergmannJustin
 
 
-[Back to top](#Image_Classification_Pruefung)
+[Back to top](#Image-Classification)
 
 
 
