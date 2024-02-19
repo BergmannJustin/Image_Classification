@@ -43,6 +43,14 @@ The CIFAR-100 dataset can be downloaded directly from my code or from the offici
 
 ## Purpose-of-use
 
+Image classification is a fundamental concept in image processing and artificial intelligence. It enables automatic categorization of images into different classes or categories based on their visual features. This technique is utilized across various domains to solve complex problems and automate human tasks.
+
+A common application of image classification is object detection and identification. By training models, systems can automatically recognize and identify objects in images. This is employed, for instance, in the automotive industry for autonomous vehicles, in surveillance systems for detecting suspicious behavior, and in medical imaging systems for anomaly identification.
+
+
+
+
+
 
 
 [zurück an den Anfang](#Write-o-mat)
