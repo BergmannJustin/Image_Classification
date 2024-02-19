@@ -12,10 +12,10 @@ The Dataset comprises 100 classes, each containing 600 images. Specifically, the
 
 To complete this project you will need the following libraries:
 
--TensorFlow
--Keras
--NumPy
--Matplotlib
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
 
 You can install these librarie via pip:
 
