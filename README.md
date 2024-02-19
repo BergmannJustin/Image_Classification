@@ -17,7 +17,7 @@ To complete this project you will need the following libraries:
 - NumPy
 - Matplotlib
 
-You can install these librarie via pip:
+You can install these libraries via pip:
 
 ```Shell
 pip install tensorflow keras numpy matplotlib
