@@ -20,6 +20,12 @@ To complete this project you will need the following libraries:
 You can install these librarie via pip:
 
 ```Shell
+pip install tensorflow keras numpy matplotlib
+```
+
+And clone the Repository
+
+```Shell
 git clone https://github.com/BergmannJustin/Image_Classification_Pr-fung.git
 ```
 
