@@ -51,13 +51,11 @@ A common application of image classification is object detection and identificat
 
 
 
-
-
-
-
 [Back to top](#Image_Classification_Pruefung)
 
 ## Use-this-Code-Guide
+
+You can run the code exactly as is when cloning
 
 - 1 = Import Librabies 
 - 2 = Loading CIFAR-100 
