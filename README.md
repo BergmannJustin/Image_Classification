@@ -34,12 +34,12 @@ And clone the Repository
 git clone https://github.com/BergmannJustin/Image_Classification_Pr-fung.git
 ```
 
-[zurück an den Anfang](#Write-o-mat)
+[Back to top](#Image_Classification_Pruefung)
 
 ## Data-loading
 The CIFAR-100 dataset can be downloaded directly from my code or from the official website: CIFAR-100 Dataset.
 
-[zurück an den Anfang](#Write-o-mat)
+[Back to top](#Image_Classification_Pruefung)
 
 ## Purpose-of-use
 
@@ -53,19 +53,19 @@ A common application of image classification is object detection and identificat
 
 
 
-[zurück an den Anfang](#Write-o-mat)
+[Back to top](#Image_Classification_Pruefung)
 
 ## Use-this-Code-Guide
 
 
-[zurück an den Anfang](#Write-o-mat)
+[Back to top](#Image_Classification_Pruefung)
 
 
 ## Metadaten
 Justin Bergmann - Github: @BergmannJustin
 
 
-[zurück an den Anfang](#Write-o-mat)
+[Back to top](#Image_Classification_Pruefung)
 
 
 
