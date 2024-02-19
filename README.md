@@ -5,7 +5,7 @@
 ## Introduction
 
 The Dataset comprises 100 classes, each containing 600 images. Specifically, there are 500 training images and 100 testing images per class.
-So in total there are 60,000 Images
+So in total there are 60000 Images
 
 
 
