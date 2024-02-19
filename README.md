@@ -17,28 +17,22 @@ Keras
 NumPy
 Matplotlib
 
-You can install these libraries via pip:
+You can install these librarie via pip:
 
 ```Shell
-git clone 
-cd 
-pip install 
-cd Writeomat
+git clone https://github.com/BergmannJustin/Image_Classification_Pr-fung.git
 ```
 
-## Daten herunterladen
-Der CIFAR-10-Datensatz kann direkt aus meinem Code oder von der offiziellen Webseite heruntergeladen werden: CIFAR-10 Dataset.
+## Data loading
+The CIFAR-100 dataset can be downloaded directly from my code or from the official website: CIFAR-100 Dataset.
 
 
-## Verwendung
+## Purpose of use
 
 
 
-## Weitere Informationen
-  Weitere Informationen zum CIFAR-10-Datensatz und zur Bildklassifizierung mit CNNs finden Sie in der offiziellen Dokumentation:
-- CIFAR-10 Dataset
-- TensorFlow Documentation
-- Keras Documentation
+## Use this Code Guide
+
 
 
 ## Metadaten
