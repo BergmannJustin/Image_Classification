@@ -7,7 +7,6 @@
 The Dataset comprises 100 classes, each containing 600 images. Specifically, there are 500 training images and 100 testing images per class. Moreover, the 100 classes in the CIFAR-100 dataset are further organized into 20 superclasses. Each image is associated with two labels: a "fine" label indicating the specific class it belongs to, and a "coarse" label indicating the superclass it belongs to.
 
 
-![Image_Classification](/Users/bergmannjustin/Desktop/bilder.png)
 
 ## Table of contents
 - [Requirement](#Requirement)
